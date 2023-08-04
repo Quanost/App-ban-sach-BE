@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db17006-f8d9-4acc-b55b-46ed23ce55d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../swiggy-gateway/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swiggy-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpringCRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoSpringCRUD/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/KienTrucVaThietKePhanMem/BaiTapLon/Nhom20_KienTrucPhanMem/app-ban-sach-api-gateway"
+    "last_opened_file_path": "E:/KienTrucVaThietKePhanMem/BaiTapLon/Nhom20_KienTrucPhanMem/CRUD_Book"
   }
 }]]></component>
   <component name="RecentsManager">

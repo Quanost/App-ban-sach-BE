@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c397775-a854-4218-851c-ab3dd7207c0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../swiggy-gateway/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swiggy-gateway/target/classes/application.yml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Book/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Book/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Book/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Book/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpringCRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoSpringCRUD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mircoservice/demo/EurekaServerApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mircoservice/demo/EurekaServerApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app-ban-sach-api-gateway/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +40,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/KienTrucVaThietKePhanMem/BaiTapLon/Nhom20_KienTrucPhanMem/EurekaServer"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/KienTrucVaThietKePhanMem/BaiTapLon/Nhom20_KienTrucPhanMem/EurekaServer&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mircoservice.demo.EurekaServerApplication" />
