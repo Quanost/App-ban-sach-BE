@@ -1,13 +1,13 @@
-package com.javaguides.springboot;
+package com.example.crud_book;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootFirstAppApplicationTests {
+class CrudBookApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
