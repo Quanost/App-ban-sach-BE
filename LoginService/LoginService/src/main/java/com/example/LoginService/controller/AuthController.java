@@ -28,9 +28,8 @@ import javax.validation.Valid;
 import java.util.HashSet;
 import java.util.Set;
 
-@RequestMapping
+@RequestMapping("/auth")
 @RestController
-@CrossOrigin(origins = "*")
 public class AuthController {
     @Autowired
     UserServiceImpl userService;
@@ -102,6 +101,12 @@ public class AuthController {
         String token = jwtProvider.createToken(authentication);
         UserPrinciple userPrinciple = (UserPrinciple) authentication.getPrincipal();
         return ResponseEntity.ok(new JwtResponse(token, userPrinciple.getName(),userPrinciple.getAvatar(), userPrinciple.getRoles()));
+    }
+
+    @GetMapping("/validate")
+    public String validateToken(@RequestParam("token") String token) {
+        jwtProvider.validateToken(token);
+        return "Token is valid";
     }
 //    @PutMapping("/change-password")
 //    public ResponseEntity<?> changePassword(HttpServletRequest request, @Valid @RequestBody ChangePasswordForm changePasswordForm){
