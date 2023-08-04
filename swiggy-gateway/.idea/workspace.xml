@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f41bba00-d79c-4965-8499-0de753be21df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/src/main/java/com/mircoservice/demo/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EurekaServer/src/test/java/com/mircoservice/demo/EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_10_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_10_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__io_github_x_stream_mxparser_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_bouncycastle_bcutil_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginService/LoginService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/src/main/java/com/example/demo/AppBanSachApiGatewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/bin/src/test/java/com/example/demo/AppBanSachApiGatewayApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/java/com/example/demo/AppBanSachApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/java/com/example/demo/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/java/com/example/demo/filter/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/java/com/example/demo/filter/RouteValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/java/com/example/demo/util/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-ban-sach-api-gateway/src/test/java/com/example/demo/AppBanSachApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javatechie/SwiggyGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javatechie/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javatechie/filter/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javatechie/filter/RouteValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javatechie/util/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javatechie/util/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javatechie/SwiggyGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swiggy-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javatechie/SwiggyGatewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javatechie/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javatechie/filter/AuthenticationFilter$Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javatechie/filter/AuthenticationFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javatechie/filter/RouteValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javatechie/util/JwtProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_10_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_11_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_4_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_5_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_7_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_aop_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_beans_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_context_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_core_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_expression_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_orm_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_orm_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_test_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_tx_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_tx_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_web_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/LoginService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/LoginService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/LoginService/src/main/java/com/example/LoginService/LoginServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/LoginService/src/main/java/com/example/LoginService/LoginServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/LoginService/src/main/java/com/example/LoginService/configure/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/LoginService/src/main/java/com/example/LoginService/configure/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoginService/LoginService/src/main/java/com/example/LoginService/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoginService/LoginService/src/main/java/com/example/LoginService/controller/AuthController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TVaHfFXMxEQsANUzHbLHy9Fd7i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/KienTrucVaThietKePhanMem/BaiTapLon/Nhom20_KienTrucPhanMem/swiggy-gateway"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javatechie.util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SwiggyGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatechie.SwiggyGatewayApplication" />
+      <module name="swiggy-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatechie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwiggyGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41bba00-d79c-4965-8499-0de753be21df" name="Changes" comment="" />
+      <created>1691130617396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691130617396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
