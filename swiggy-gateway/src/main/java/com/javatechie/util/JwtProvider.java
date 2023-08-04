@@ -1,13 +1,13 @@
-package com.example.LoginService.security.jwt;
+package com.javatechie.util;
 
 
-import com.example.LoginService.security.userpincal.UserPrinciple;
+
 import io.jsonwebtoken.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Component;
 
+import java.security.Key;
 import java.util.Date;
 
 @Component
@@ -15,14 +15,7 @@ public class JwtProvider {
     private static final Logger logger = LoggerFactory.getLogger(JwtProvider.class);
     private String jwtSecret = "nguyenhoangquan";
     private int jwtExpiration = 86400;
-    public String createToken(Authentication authentication){
-        UserPrinciple userPrinciple = (UserPrinciple) authentication.getPrincipal();
-        return Jwts.builder().setSubject(userPrinciple.getUsername())
-                .setIssuedAt(new Date())
-                .setExpiration(new Date(new Date().getTime()+jwtExpiration*1000))
-                .signWith(SignatureAlgorithm.HS512, jwtSecret)
-                .compact();
-    }
+
     public boolean validateToken(String token){
         try {
             Jwts.parser().setSigningKey(jwtSecret).parseClaimsJws(token);
@@ -44,4 +37,5 @@ public class JwtProvider {
         String userName = Jwts.parser().setSigningKey(jwtSecret).parseClaimsJws(token).getBody().getSubject();
         return userName;
     }
+
 }

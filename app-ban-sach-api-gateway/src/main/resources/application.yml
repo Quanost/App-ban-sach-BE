@@ -1,0 +1,25 @@
+server:
+  port: 8081
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: restaurant-service
+          uri: http://localhost:8087
+          predicates:
+            - Path=/khoahoc/**
+          filters:
+            - AuthenticationFilter
+
+        - id: login-service
+          uri: http://localhost:8080
+          predicates:
+            - Path=/auth/**
+
+  application:
+    name: BOOK-GATEWAY
+
+eureka:
+  client:
+    service-url:
+      defaultZone : http://localhost:8761/eureka/

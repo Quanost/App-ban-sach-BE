@@ -2,23 +2,15 @@ spring:
  cloud:
    gateway:
      routes:
-       - id: swiggy-app
-         uri: lb://SWIGGY-APP
-         predicates:
-           - Path=/swiggy/**
-         filters:
-           - AuthenticationFilter
-
-
        - id: restaurant-service
          uri: lb://RESTAURANT-SERVICE
          predicates:
-           - Path=/restaurant/**
+           - Path=/khoahoc/**
          filters:
            - AuthenticationFilter
 
-       - id: identity-service
-         uri: lb://IDENTITY-SERVICE
+       - id: login-service
+         uri: lb://LOGIN-SERVICE
          predicates:
            - Path=/auth/**
 

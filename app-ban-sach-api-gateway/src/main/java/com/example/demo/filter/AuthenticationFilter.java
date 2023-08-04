@@ -1,13 +1,11 @@
-package com.javatechie.filter;
+package com.example.demo.filter;
 
-import com.javatechie.util.JwtProvider;
-import com.javatechie.util.JwtUtil;
+import com.example.demo.util.JwtProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.factory.AbstractGatewayFilterFactory;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Component;
-import org.springframework.web.client.RestTemplate;
 
 @Component
 public class AuthenticationFilter extends AbstractGatewayFilterFactory<AuthenticationFilter.Config> {
@@ -17,8 +15,7 @@ public class AuthenticationFilter extends AbstractGatewayFilterFactory<Authentic
 
     //    @Autowired
 //    private RestTemplate template;
-    @Autowired
-    private JwtUtil jwtUtil;
+
 
     @Autowired
     private JwtProvider jwtProvider;

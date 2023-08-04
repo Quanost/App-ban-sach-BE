@@ -1,6 +1,6 @@
 package com.javatechie.filter;
 
-import com.javatechie.util.JwtUtil;
+import com.javatechie.util.JwtProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.factory.AbstractGatewayFilterFactory;
@@ -16,8 +16,11 @@ public class AuthenticationFilter extends AbstractGatewayFilterFactory<Authentic
 
     //    @Autowired
 //    private RestTemplate template;
+//    @Autowired
+//    private JwtUtil jwtUtil;
+
     @Autowired
-    private JwtUtil jwtUtil;
+    private JwtProvider jwtProvider;
 
     public AuthenticationFilter() {
         super(Config.class);
@@ -39,7 +42,7 @@ public class AuthenticationFilter extends AbstractGatewayFilterFactory<Authentic
                 try {
 //                    //REST call to AUTH service
 //                    template.getForObject("http://IDENTITY-SERVICE//validate?token" + authHeader, String.class);
-                    jwtUtil.validateToken(authHeader);
+                    jwtProvider.validateToken(authHeader);
 
                 } catch (Exception e) {
                     System.out.println("invalid access...!");
