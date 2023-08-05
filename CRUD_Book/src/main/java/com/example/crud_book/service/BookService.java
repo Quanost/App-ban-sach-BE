@@ -1,5 +1,6 @@
 package com.example.crud_book.service;
 
+import com.example.crud_book.dto.InventoryResponse;
 import com.example.crud_book.model.Book;
 
 import java.util.List;
@@ -23,5 +24,6 @@ public interface BookService {
     //Lấy số lượng sách
     int getQuantityByBookId(long bookId);
 
+    List<InventoryResponse> isInStock(List<String> skuCode);
 
 }

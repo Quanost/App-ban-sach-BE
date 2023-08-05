@@ -1,9 +1,12 @@
 package com.example.crud_book.service;
 
+import com.example.crud_book.dto.InventoryResponse;
 import com.example.crud_book.model.Book;
 import com.example.crud_book.repository.BookRepository;
+import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
@@ -67,5 +70,17 @@ public class BookServicempl implements BookService{
         } else {
             return -1; // Hoặc một giá trị thể hiện sách không tồn tại
         }
+    }
+
+    @Transactional(readOnly = true)
+    public List<InventoryResponse> isInStock(List<String> skuCode) {
+//        log.info("Checking Inventory");
+        return bookRepository.findByNameIn(skuCode).stream()
+                .map(inventory ->
+                        InventoryResponse.builder()
+                                .skuCode(inventory.getName())
+                                .isInStock(inventory.getQuantity() > 0)
+                                .build()
+                ).toList();
     }
 }
